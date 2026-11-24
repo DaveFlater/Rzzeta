@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include <complex>
+#include <cmath>
 #include <cstdint>
 
 typedef _Float128         Rzfloat;
