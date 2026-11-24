@@ -79,14 +79,13 @@ testfns` to see the carnage.
 
 ## Zeta algorithm
 
-The algorithm is called algorithm 3 in P. Borwein, [An efficient algorithm
-for the Riemann zeta
-function](https://www.cecm.sfu.ca/~pborwein/PAPERS/P155.pdf), Centre for
-Experimental and Constructive Mathematics (CECM) preprint.  A differently
-formatted preprint with equivalent content was dated 1995-01-20.  The
-published version, which I have not yet obtained, is allegedly in Michel
-Théra (Ed.), Constructive, Experimental, and Nonlinear Analysis, CMS
-Conference Proceedings Vol. 27, pp. 29–34, 2000.  ISBN-13: 9780821821671
+The algorithm is called algorithm 3 in P. Borwein,
+An efficient algorithm for the Riemann zeta function, in Michel
+Théra (Ed.), Constructive, Experimental, and Nonlinear Analysis, Canadian
+Mathematical Society Conference Proceedings Vol. 27, pp. 29–34, 2000.
+ISBN-13: 9780821821671.
+[Preprint](https://www.cecm.sfu.ca/~pborwein/PAPERS/P155.pdf),
+[Internet Archive](https://archive.org/details/constructiveexpe0000unse_c6t5)
 
 Borwein's algorithm 3 is the simplest of a group of simple algorithms that
 perform well in proximity to the origin but become increasingly useless at
