@@ -34,7 +34,7 @@ template <uint8_t n> consteval Rzcomplex Rzzeta (Rzcomplex s) {
   static_assert(n > 0,  "n is too small");
 
   constexpr uint8_t nx2 = n << 1;
-  constexpr Rzfloat pow2n = 1UL << n;
+  constexpr Rzfloat pow2n = UINT64_C(1) << n;
   Rzcomplex sum = {0, 0};
   int8_t ej_sign = 1;
   for (uint8_t j = 0; j < n; ++j) {
